@@ -1,0 +1,5 @@
+# Statoil-competition
+
+
+
+Kaggle competiotion
